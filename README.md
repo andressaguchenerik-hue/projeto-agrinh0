@@ -1,3 +1,3 @@
-# tma do0 meu projeto 
+# tema do meu projeto 
 
 projeto do meu curso 
